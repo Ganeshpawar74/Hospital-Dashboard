@@ -1,4 +1,4 @@
-📊 Hospital Analysis Dashboard
+<img width="1441" height="819" alt="image" src="https://github.com/user-attachments/assets/f3b822cc-4736-4801-8110-aa2f2e13ea3c" />📊 Hospital Analysis Dashboard
 
 An interactive Power BI dashboard designed to analyze hospital operations, patient trends, doctor performance, and financial metrics using real-world healthcare data.
 This project focuses on data-driven decision-making through clean visuals and meaningful KPIs.
@@ -47,12 +47,12 @@ Figma (Dashboard layout & UI planning)
 The dashboard consists of multiple analytical views:
 
 🔹 Overview Dashboard
+## 📷 Dashboard Screenshots
 
-Total Patients
+### Overview Dashboard
+![Overview Dashboard](<img width="1441" height="819" alt="Screenshot 2025-12-13 231411" src="https://github.com/user-attachments/assets/91245dfb-ff1d-4e71-bcb2-556110ca39d9" />
+)
 
-Total Doctors
-
-Total Revenue
 
 Admission & Discharge Trends
 
